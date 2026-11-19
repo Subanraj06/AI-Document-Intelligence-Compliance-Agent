@@ -1,0 +1,8 @@
+# Normalise line endings for text files; never convert binary files.
+# (Without this, Git treats the sample PDFs as text and can corrupt them on Windows checkouts.)
+* text=auto
+*.pdf binary
+*.docx binary
+*.png binary
+*.jpg binary
+*.zip binary
