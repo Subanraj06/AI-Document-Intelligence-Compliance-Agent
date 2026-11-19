@@ -1,0 +1,15 @@
+WEEK 3 - UPDATE PUSH (same GitHub repo as Week 2)
+
+Push Week 2 first. This zip already contains the Week 2 history, so this push only adds Week 3.
+
+1. Extract this zip into a NEW folder (do not mix with the Week 2 folder)
+2. Open the "ai-doc-intelligence" folder in VS Code -> Terminal -> New Terminal
+3. Run (same URL as before, replace UN-USERNAME):
+   git remote add origin https://github.com/UN-USERNAME/ai-doc-intelligence.git
+   git push -u origin main
+   git push origin --tags
+
+GitHub now shows the Week 3 commit and tag week-03.
+Show: docs/week-03/  (WEEK_03_REPORT.md and the week's evidence files)
+
+If push is rejected: the Week 2 push was not done, or the repo was created with a README.
