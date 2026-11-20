@@ -1,0 +1,32 @@
+SYNTHETIC SAMPLE DOCUMENT - CREATED FOR TESTING ONLY - NOT A REAL CONTRACT
+
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is entered into on 12 January 2026 between Bluepeak Logistics Private Limited, a company incorporated under the Companies Act, 2013, having its registered office at 14 Harbour Road, Chennai (the "Client") and Orbitsoft Technologies LLP, having its office at 22 Lake View Street, Bengaluru (the "Service Provider").
+
+1. TERM
+1.1 This Agreement shall commence on 1 February 2026 (the "Effective Date") and shall remain in force for a period of twenty-four (24) months, unless terminated earlier in accordance with Clause 6.
+
+2. SERVICES
+2.1 The Service Provider shall provide software maintenance and support services as described in each Statement of Work.
+2.2 The Service Provider shall submit a monthly service report to the Client by the 5th day of each month.
+2.3 The Client shall provide the Service Provider with access to its systems and test environments within 10 business days of the Effective Date.
+
+3. FEES AND PAYMENT
+3.1 The Client shall pay a monthly fee of INR 4,50,000 for the services.
+3.2 The Client shall pay each undisputed invoice within 30 days of receipt of the invoice.
+
+4. CONFIDENTIALITY
+4.1 Each Party shall keep the other Party's confidential information secret and shall not disclose it to any third party without prior written consent.
+
+5. DATA PROTECTION
+5.1 The Service Provider must notify the Client of any personal data breach within 48 hours of becoming aware of it.
+
+6. TERMINATION
+6.1 Either Party may terminate this Agreement by giving sixty (60) days' prior written notice to the other Party.
+
+7. GOVERNING LAW
+7.1 This Agreement shall be governed by and construed in accordance with the laws of India, and the courts at Chennai shall have exclusive jurisdiction.
+
+Signed for and on behalf of the Client: ____________ Date: 12 January 2026
+Signed for and on behalf of the Service Provider: ____________ Date: 12 January 2026

@@ -1,0 +1,13 @@
+SYNTHETIC SAMPLE DOCUMENT - CREATED FOR TESTING ONLY - NOT A REAL CONTRACT
+
+CONSULTING AGREEMENT
+
+This Consulting Agreement is made on March 2, 2026 between Lumen Analytics Private Limited, Coimbatore ("Lumen") and Ms. Ananya Rao, an independent data consultant residing in Kochi ("Consultant").
+
+1. Engagement. Lumen engages the Consultant to review its customer churn models. The engagement begins on March 9, 2026 and ends on May 29, 2026.
+2. Fees. Lumen will pay the Consultant a fee of INR 1,20,000 per month. The Consultant shall submit an invoice at the end of each month, and Lumen shall pay it within 10 days of receipt.
+3. Deliverables. The Consultant shall deliver a written model review report no later than May 22, 2026.
+4. Timesheets. The Consultant must record working hours in Lumen's timesheet tool every Friday.
+5. Confidentiality. The Consultant shall not share Lumen's data with any third party and shall delete all copies at the end of the engagement.
+6. Termination. Either party may end this Agreement with 14 days' written notice.
+7. Governing law. The laws of India govern this Agreement.

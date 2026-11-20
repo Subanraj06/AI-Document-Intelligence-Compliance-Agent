@@ -1,0 +1,21 @@
+SYNTHETIC SAMPLE DOCUMENT - CREATED FOR TESTING ONLY - NOT A REAL CONTRACT
+
+ANNUAL MAINTENANCE CONTRACT (AMC) FOR HVAC EQUIPMENT
+
+Contract No: AMC/2026/118
+Contract Date: 2026-04-15
+
+This contract is between Saffron Hospitality Private Limited (the "Owner") and Vantage Facility Services Pvt Ltd (the "Contractor").
+
+Contract period: 1 May 2026 to 30 April 2027.
+
+1. The Contractor shall carry out preventive maintenance of all HVAC units once every quarter.
+2. The Contractor shall attend to breakdown calls within 6 hours of the complaint being logged.
+3. The Contractor shall replace defective parts at its own cost, except for compressors.
+4. The Owner shall provide free access to the plant room during working hours.
+5. The annual contract value is INR 3,60,000, payable in four equal quarterly instalments.
+6. The Owner shall release each quarterly payment within 21 days of receiving the Contractor's invoice.
+7. The warranty period of 12 months applies to replaced parts.
+8. Either party may terminate this contract by giving 30 days' notice in writing.
+
+Disputes shall be subject to the exclusive jurisdiction of the courts at Bengaluru. This contract is governed by Indian law.

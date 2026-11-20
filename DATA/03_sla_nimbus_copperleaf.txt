@@ -1,0 +1,26 @@
+SYNTHETIC SAMPLE DOCUMENT - CREATED FOR TESTING ONLY - NOT A REAL CONTRACT
+
+SERVICE LEVEL AGREEMENT
+
+This Service Level Agreement ("SLA") forms part of the Hosting Services Agreement between Nimbus Cloud Hosting Pvt Ltd ("Provider") and Copperleaf Retail Private Limited ("Customer").
+
+Effective Date: 1 April 2026
+SLA Review Date: 30 September 2026
+
+1. AVAILABILITY
+1.1 The Provider shall ensure that the hosting platform is available 99.5% of the time in each calendar month, excluding scheduled maintenance.
+1.2 The Provider shall give the Customer at least 72 hours' notice of any scheduled maintenance.
+
+2. INCIDENT RESPONSE
+2.1 For Priority 1 incidents, the Provider must respond within 30 minutes and restore service within 4 hours.
+2.2 For Priority 2 incidents, the Provider must respond within 2 hours.
+2.3 The Customer shall report incidents through the support portal or the 24x7 helpline.
+
+3. SERVICE CREDITS
+3.1 If monthly availability falls below 99.5%, the Provider shall credit 5% of the monthly hosting fee for each full 0.5% shortfall, up to a maximum of 25% of the monthly hosting fee.
+3.2 The Customer must claim service credits within 30 days of the end of the affected month.
+
+4. REPORTING
+4.1 The Provider shall publish an availability report to the Customer within 7 days after the end of each month.
+
+This SLA is governed by the laws of India.

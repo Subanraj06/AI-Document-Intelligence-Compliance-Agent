@@ -1,0 +1,16 @@
+SYNTHETIC SAMPLE DOCUMENT - CREATED FOR TESTING ONLY - NOT A REAL CONTRACT
+
+CONFIDENTIALITY AGREEMENT
+
+Effective Date: August 4, 2026
+
+This Confidentiality Agreement is between Saffron Hospitality Private Limited ("Discloser") and Nimbus Cloud Hosting Pvt Ltd ("Recipient").
+
+1. Recipient will use Discloser's Confidential Information only to prepare a proposal for cloud migration services.
+2. Recipient shall restrict access to Confidential Information to employees who are bound by written confidentiality obligations.
+3. Recipient shall notify Discloser in writing within 2 business days if it becomes aware of any unauthorised disclosure.
+4. Upon request, Recipient shall return all documents containing Confidential Information within 10 days.
+5. This Agreement remains in effect until August 3, 2027.
+6. This Agreement shall be governed by the laws of India.
+
+Signed: August 4, 2026
